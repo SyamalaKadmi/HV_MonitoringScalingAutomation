@@ -58,6 +58,8 @@ Web Application code hosted in Github repository --> https://github.com/SyamalaK
    - Email Notifications
       ![mailNotifications](Images/mailNotifications.png)
 
+---
+
 ### 5. Infrastructure Automation: 
 
  A single script using `boto3` that
